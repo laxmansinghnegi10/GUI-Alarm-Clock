@@ -1,5 +1,5 @@
 # GUI-Alarm-Clock Project Explanation
-
+Here's an explanation of the code:
 
 1- Import necessary modules:
 
