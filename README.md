@@ -1,4 +1,4 @@
-# GUI-Alarm-Clock-system-using-python
+# GUI-Based-Alarm-Clock-system-using-python
 Here's an explanation of the code:
 
 1- Import necessary modules:
